@@ -1,0 +1,1 @@
+module.export = "CREATE TABLE generation ( id SERIAL PRIMARY KEY , expiration TIMESTAMP )"
